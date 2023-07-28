@@ -1,16 +1,15 @@
-import React from 'react';
-import { TodoProvider, TodoList } from './components/UI/todo/TodoList';
-
+import React from 'react'
 
 const App = () => {
   return (
-    <TodoProvider>
-      <TodoList />
-    </TodoProvider>
-  );
-};
+    <div>Order-Food</div>
+  )
+}
 
-export default App;
+export default App
+
+
+
 
 
 
